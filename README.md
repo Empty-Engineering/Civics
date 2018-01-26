@@ -1,6 +1,7 @@
 # Civics
 <!DOCTYPE html>
 <head>
+<title>Civics Period 3</title>
   <meta charset="UTF-8">
   <meta name="description" content="Beitz Period 3">
   <link rel="stylesheet" type="text/css" href="/ac/globalnav/3/en_US/styles/ac-globalnav.built.css" />
@@ -9,3 +10,4 @@
 	<link rel="stylesheet" type="text/css" href="/ac/localeswitcher/1/styles/localeswitcher.built.css" />
   </head>
   <body>
+<h1>Civics Period 3<h1>
